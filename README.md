@@ -1,4 +1,4 @@
-# Dinamik Blog Projesi ( ASP.NET MVC)
+# Dinamik Blog Projesi (ASP.NET MVC)
 
 ## Admin
 ## Kullanıcı
