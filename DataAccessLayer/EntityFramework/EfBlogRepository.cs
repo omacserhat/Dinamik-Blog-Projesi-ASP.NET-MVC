@@ -19,7 +19,6 @@ namespace DataAccessLayer.EntityFramework
             {
                 return c.Blogs.Include(x=>x.Category).ToList();
             }
-             
         }
     }
 }
